@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Instrument
+comment1.params=
+comment1.target=void\ play()
+comment2.params=
+comment2.target=void\ mConcreta()
+comment3.params=
+comment3.target=void\ mStatica()
+comment4.params=
+comment4.target=void\ mPrivata()
+numComments=5
