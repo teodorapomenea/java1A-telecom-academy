@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Angajat
+comment1.params=salariu\ vechime\ nume
+comment1.target=Angajat(double,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=double\ calculeazaSalariu()
+numComments=3

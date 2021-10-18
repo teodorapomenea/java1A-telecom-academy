@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Instrument
+comment1.params=
+comment1.target=void\ play()
+comment2.params=mesaj
+comment2.target=void\ mesaj(java.lang.String)
+numComments=3
